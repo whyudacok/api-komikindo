@@ -10,7 +10,7 @@
   <img src="https://count.getloli.com/get/@cuymangapi?theme=rule34" alt="Visitor Count" width="55">
 </p>
 
-## 🌐 Sumber  
+## Sumber  
 [Komikindo](https://komikindo2.com)
 
 ## List
