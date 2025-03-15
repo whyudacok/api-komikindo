@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://kuzonime.web.id/assets/img/b1270a2a-0492-4a5c-bb0f-fd23a2cd7e14.jpeg" width="150" alt="CuymangaAPI Logo">
+  <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj-G_t-EQA0E8lps2MZxG_o5lnlFbl4LS8DWPjXdcsA1dhhyphenhyphenXp2T17bZI-MUhakzF98ANNFPEstjHQTnJ9H_nsnmGZRbqTmhmqiJMqlWOfJCL2bapKnKyCd4XSqKCyLY93bOH-S-hH2wiDAGV5DVjrQ3wOEOiSuwm1700MT_Ef-3h9PkH51tcLjMgXxjf_H/s1080/Proyek%20Baru%2065%20%5BD1A02AC%5D.png" width="150" alt="CuymangaAPI Logo">
 </p>
 
 <h1 align="center">CuymangaAPI</h1>
